@@ -9,6 +9,7 @@ test("demoform.spec.js", async({page})=>{
     await page.locator("#userNumber").fill("12345");
     await page.locator("#submit").click();
     await page.locator("#submit").click();
+    console.log("elango");
     
     
 
