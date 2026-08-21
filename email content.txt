@@ -1,0 +1,3 @@
+HI team I am writing to express my interest in the Test engineer position in your company.
+ I bring 4 years of experience in software quality assurance,
+ specializing in automation using Java and Selenium.
