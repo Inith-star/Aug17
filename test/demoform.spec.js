@@ -11,6 +11,6 @@ test("demoform.spec.js", async({page})=>{
     await page.locator("#submit").click();
     console.log("elango");
     
-    
+    console.log("elango");
 
 })
