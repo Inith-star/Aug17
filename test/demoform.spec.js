@@ -8,7 +8,7 @@ test("demoform.spec.js", async({page})=>{
     await page.locator("input[value='Female']").check();
     await page.locator("#userNumber").fill("12345");
     await page.locator("#submit").click();
-
+    await page.locator("#submit").click();
     
     
 
